@@ -1,6 +1,6 @@
 <div align= "center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:fbc1c9,100:b5d9bc&height=300&section=header&text=Hello,%20I'm%20Huijung&fontColor=947060&fontSize=30&animation=fadeIn&textColor=black" /><br>
- 🔭 I’m currently Interning in the US. <br>
+<!-- 🔭 I’m currently Interning in the US. --> 
  🌱 I’m passionate about learning what I'm interested in. <br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Tech Stacks </h2> <br> 
