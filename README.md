@@ -22,7 +22,7 @@
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=huiinny&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/huiinny"
   width="600"
